@@ -1,7 +1,7 @@
 Overview/ Readme
 ================
 
-:Name: A very good python package
+:Name: cysofa
 :Website:
 :Author: Matthew Turnock
 :Version: 0.1
@@ -10,7 +10,7 @@ Overview/ Readme
 
 This Python package is a simple wrapper for a number of sofa subroutines. For a full list of supported subroutines see the API Reference.
 
-.. image:: https://github.com/MattTurnock/package_template/blob/master/docs/examples/trumpy.jpg
+.. image:: 
    :align: center
 
 Documentation
